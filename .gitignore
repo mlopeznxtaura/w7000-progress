@@ -1,0 +1,10 @@
+owncode
+owncode.*
+config.yaml
+**/config.yaml
+.env
+*.env
+*.pem
+*.key
+secrets*
+*token*
